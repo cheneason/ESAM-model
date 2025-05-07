@@ -1,1 +1,1 @@
-The source code of ESAM model for building height estimation. ESAM model (Edge-enhanced SAM for extracting photovoltaic power plants from remote sensing imagery) is published in the journal of International Journal of Applied Earth Observations and Geoinformation.
+The source code of ESAM model for extracting photovoltaic power plants. ESAM model (Edge-enhanced SAM for extracting photovoltaic power plants from remote sensing imagery) is published in the journal of International Journal of Applied Earth Observations and Geoinformation.
